@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/styled-components/static/css/main.c668b362.css",
+    "main.js": "/styled-components/static/js/main.cc58cd0c.js",
+    "static/media/barone.png": "/styled-components/static/media/barone.5f45ac3d8fccf82a678b.png",
+    "static/media/binford.png": "/styled-components/static/media/binford.901a80d29e7c61c2abb4.png",
+    "static/media/abstergo.png": "/styled-components/static/media/abstergo.97d3e7b55ad26212a4e5.png",
+    "static/media/acme.png": "/styled-components/static/media/acme.c0a748d9d87440d35eac.png",
+    "static/media/big.png": "/styled-components/static/media/big.8e9f9de27ed3fe49275f.png",
+    "static/media/biffco.png": "/styled-components/static/media/biffco.14f80b76cbde46d75184.png",
+    "static/media/darkLogo.png": "/styled-components/static/media/darkLogo.6f1a86e43d81eeab76b5.png",
+    "static/media/marvin.png": "/styled-components/static/media/marvin.6c5d60008e3579d7f5cc.png",
+    "static/media/jacob.png": "/styled-components/static/media/jacob.fd62ae0db7ddf3890935.png",
+    "static/media/avatar.png": "/styled-components/static/media/avatar.c56fc17a6380f1584fd2.png",
+    "static/media/kathryn.png": "/styled-components/static/media/kathryn.c640a17cbf01d4a931c2.png",
+    "static/media/leslie.png": "/styled-components/static/media/leslie.e324c8b5ee73f61376a7.png",
+    "static/media/eleanor.png": "/styled-components/static/media/eleanor.cbce426c974d1692a01c.png",
+    "static/media/wade.png": "/styled-components/static/media/wade.18441e83b11f67c30edb.png",
+    "index.html": "/styled-components/index.html",
+    "main.c668b362.css.map": "/styled-components/static/css/main.c668b362.css.map",
+    "main.cc58cd0c.js.map": "/styled-components/static/js/main.cc58cd0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c668b362.css",
+    "static/js/main.cc58cd0c.js"
+  ]
+}
